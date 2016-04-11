@@ -1,5 +1,5 @@
 name: SurvivalGame
-api: 1.0.0
+api: 2.0.0
 version: 1.0.9
 main: Andre\SurvivalGame\Main
 load: POSTWORLD
